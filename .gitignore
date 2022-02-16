@@ -83,3 +83,9 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+#create-react-app
+#npm install -g create-react-app,
+npm uninstall -g create-react-app
+npm uninstall -g create-react-ap
+
+
